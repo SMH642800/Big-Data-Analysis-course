@@ -1,4 +1,4 @@
-#Goal: to practice NoSQL database MongoDB.
+# Goal: to practice NoSQL database MongoDB.
 - To use MongoDB Atlas to create a MongoDB database. User name is your id.
 - To use PyMongo library to access your MongoDB database from Python.
 - The dataset contains classes, students, and grades. Create MongoDB documents, collections, or databases from the dataset. The number of documents is at least two. First put one document into your MongoDB using the browser. Other documents are inserted with the following python code.
